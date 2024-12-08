@@ -1,5 +1,6 @@
 # Spark ETL with PostgreSQL
 
+
 Этот репозиторий содержит скрипт ETL на Apache Spark, который работает с базой данных PostgreSQL.
 
 ## Как запустить
